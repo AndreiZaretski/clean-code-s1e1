@@ -140,7 +140,9 @@
 .task-list__checkbox, 
 .task-list__label, 
 .task-list__value, 
-.button {
+.add-task__btn, 
+.edit-btn, 
+.delete-btn {
   vertical-align: middle;
 }
 
